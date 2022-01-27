@@ -1,0 +1,34 @@
+{
+    "python.pythonPath": "C:\\Users\\Kamil\\AppData\\Local\\Programs\\Python\\Python38\\python.exe",
+    "python.formatting.provider": "black",
+    "editor.formatOnSave": false,
+    "workbench.colorTheme": "Ocean Space",
+    "workbench.iconTheme": "ayu",
+    "code-runner.executorMap": {
+        "python": "$pythonPath -u $fullFileName"
+    },
+    "code-runner.clearPreviousOutput": true,
+    "editor.mouseWheelZoom": true,
+    "code-runner.showExecutionMessage": false,
+    "code-runner.runInTerminal": true,
+    "explorer.confirmDragAndDrop": false,
+    "workbench.startupEditor": "newUntitledFile",
+    "latex-workshop.view.pdf.viewer": "browser",
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter-notebook"
+    },
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
+    },
+    "python.defaultInterpreterPath": "C:\\Users\\Kamil\\AppData\\Local\\Programs\\Python\\Python38\\python.exe",
+    "security.workspace.trust.untrustedFiles": "open",
+    "gopls": {
+        "experimentalWorkspaceModule": true,
+    },
+    "go.toolsManagement.autoUpdate": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "discord.lowerDetailsEditing": "Workspace: {workspace_folder}",
+    "discord.detailsEditing": "Editing: {file_name}",
+    "discord.detailsDebugging": "Debugging: {file_name}"
+}
