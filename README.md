@@ -19,7 +19,7 @@ A collection of the tools I use.
 
 - #### [IntelliJ IDEA](https://www.jetbrains.com/idea/) (for Java)
   - Themes:
-    -[Dark Purple](https://plugins.jetbrains.com/plugin/12100-dark-purple-theme)
+    - [Dark Purple](https://plugins.jetbrains.com/plugin/12100-dark-purple-theme)
   - Extensions:
     - [Rainbow Brackets](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets)
     - [Extra Icons](https://plugins.jetbrains.com/plugin/11058-extra-icons)
