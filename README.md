@@ -6,15 +6,14 @@ A collection of the tools I use.
 - #### [Visual Studio Code](https://code.visualstudio.com/) (for... Go, Python, JS, Haskell etc.)
   - Themes: 
     - [Moonlight](https://marketplace.visualstudio.com/items?itemName=atomiks.moonlight) [primary]
-    - [Ayu Mirage](https://marketplace.visualstudio.com/items?itemName=teabyii.ayu)
-    - [Ocean Space](https://marketplace.visualstudio.com/items?itemName=oscarmcm.ocean-space)
-    - [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
+    - [Bearded Theme](https://marketplace.visualstudio.com/items?itemName=BeardedBear.beardedtheme)
     - [poimandres](https://marketplace.visualstudio.com/items?itemName=pmndrs.pmndrs)
   - Extensions:
     - [Discord Presence](https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode)
     - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) 
     - [TailwindCSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
-	- [Rainbow Brackets](https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets)
+    - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+    - [Rainbow Brackets](https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets)
     
     ... and Code Runner + language support(s) + language specific linters and so on.
 
