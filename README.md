@@ -5,9 +5,7 @@ A collection of the tools I use.
 ## Dev Environment
 - #### [Visual Studio Code](https://code.visualstudio.com/) (for... Go, Python, JS, Haskell etc.)
   - Themes: 
-    - [Moonlight](https://marketplace.visualstudio.com/items?itemName=atomiks.moonlight) [primary]
-    - [Bearded Theme](https://marketplace.visualstudio.com/items?itemName=BeardedBear.beardedtheme)
-    - [poimandres](https://marketplace.visualstudio.com/items?itemName=pmndrs.pmndrs)
+    - [Moonlight](https://marketplace.visualstudio.com/items?itemName=atomiks.moonlight)
   - Extensions:
     - [Discord Presence](https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode)
     - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) 
