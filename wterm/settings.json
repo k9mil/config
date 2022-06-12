@@ -1,7 +1,12 @@
 {
+    "$help": "https://aka.ms/terminal-documentation",
     "$schema": "https://aka.ms/terminal-profiles-schema",
     "actions": 
     [
+        {
+            "command": "paste",
+            "keys": "ctrl+v"
+        },
         {
             "command": 
             {
@@ -11,12 +16,18 @@
             "keys": "ctrl+c"
         },
         {
-            "command": "paste",
-            "keys": "ctrl+v"
+            "command": 
+            {
+                "action": "newTab"
+            },
+            "keys": "ctrl+t"
         },
         {
-            "command": "find",
-            "keys": "ctrl+f"
+            "command": 
+            {
+                "action": "closeTab"
+            },
+            "keys": "ctrl+w"
         },
         {
             "command": 
@@ -26,6 +37,18 @@
                 "splitMode": "duplicate"
             },
             "keys": "alt+shift+d"
+        },
+        {
+            "command": "find",
+            "keys": "ctrl+f"
+        },
+        {
+            "command": 
+            {
+                "action": "newTab",
+                "index": 1
+            },
+            "keys": "ctrl+u"
         }
     ],
     "copyFormatting": "none",
@@ -35,7 +58,8 @@
     {
         "defaults": 
         {
-            "acrylicOpacity": 0.35,
+            "opacity": 30,
+            "startingDirectory": "C:/Users/Kamil/default/p-wspc",
             "useAcrylic": true
         },
         "list": 
@@ -47,10 +71,13 @@
                 "name": " "
             },
             {
-                "guid": "{2c4de342-38b7-51cf-b940-2309a097f518}",
+                "commandline": "wsl.exe -d Ubuntu",
+                "guid": "{ee97184f-7d67-4da6-b8a2-eee560afa48d}",
                 "hidden": false,
+                "icon": "C:\\Program Files\\WindowsApps\\Microsoft.WindowsTerminal_1.13.11431.0_x64__8wekyb3d8bbwe\\ProfileIcons\\{9acb9455-ca41-5af7-950f-6bca1bc9722f}.scale-100.png",
                 "name": " ",
-                "source": "Windows.Terminal.Wsl"
+                "startingDirectory": "%USERPROFILE%",
+                "tabTitle": " "
             }
         ]
     },
@@ -241,6 +268,29 @@
             "yellow": "#C4A000"
         },
         {
+            "background": "#300A24",
+            "black": "#171421",
+            "blue": "#0037DA",
+            "brightBlack": "#767676",
+            "brightBlue": "#08458F",
+            "brightCyan": "#2C9FB3",
+            "brightGreen": "#26A269",
+            "brightPurple": "#A347BA",
+            "brightRed": "#C01C28",
+            "brightWhite": "#F2F2F2",
+            "brightYellow": "#A2734C",
+            "cursorColor": "#FFFFFF",
+            "cyan": "#3A96DD",
+            "foreground": "#FFFFFF",
+            "green": "#26A269",
+            "name": "Ubuntu-ColorScheme",
+            "purple": "#881798",
+            "red": "#C21A23",
+            "selectionBackground": "#FFFFFF",
+            "white": "#CCCCCC",
+            "yellow": "#A2734C"
+        },
+        {
             "background": "#000000",
             "black": "#000000",
             "blue": "#000080",
@@ -286,12 +336,5 @@
             "white": "#C7C7C7",
             "yellow": "#FFE700"
         }
-    ],
-
-   "keybindings":
-    [
-        {"command":"newTab", "keys": "ctrl+t"},
-	{"command":"closeTab", "keys": "ctrl+w"},
-	{"command":{"action":"newTab","index":1}, "keys": "ctrl+u"},
     ]
 }
