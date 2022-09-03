@@ -12,7 +12,7 @@ A collection of the tools I use.
     - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) 
     - [TailwindCSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
     - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
-	  - [Rainbow Brackets](https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets)
+    - [Rainbow Brackets](https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets)
 
 - #### [IntelliJ IDEA](https://www.jetbrains.com/idea/)
   - Themes:
