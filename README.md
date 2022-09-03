@@ -3,7 +3,7 @@
 A collection of the tools I use.
 
 ## Dev Environment
-- #### [Visual Studio Code](https://code.visualstudio.com/) (for... Go, Python, JS, Haskell etc.)
+- #### [Visual Studio Code](https://code.visualstudio.com/)
   - Themes: 
     - [Moonlight](https://marketplace.visualstudio.com/items?itemName=atomiks.moonlight) [primary]
     - [Bearded Theme(s)](https://marketplace.visualstudio.com/items?itemName=BeardedBear.beardedtheme)
@@ -13,10 +13,8 @@ A collection of the tools I use.
     - [TailwindCSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
     - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 	  - [Rainbow Brackets](https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets)
-    
-    ... and Code Runner + language support(s) + language specific linters and so on.
 
-- #### [IntelliJ IDEA](https://www.jetbrains.com/idea/) (for Java)
+- #### [IntelliJ IDEA](https://www.jetbrains.com/idea/)
   - Themes:
     - [Dark Purple](https://plugins.jetbrains.com/plugin/12100-dark-purple-theme)
   - Extensions:

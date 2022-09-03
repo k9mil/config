@@ -44,7 +44,6 @@
     "java.jdt.ls.java.home": "C:\\Users\\Kamil\\.jdks\\jbr-11.0.14.1-1",
     "telemetry.telemetryLevel": "off",
     "javascript.updateImportsOnFileMove.enabled": "always",
-    "workbench.colorTheme": "Bearded Theme Arc",
     "editor.inlineSuggest.enabled": true,
     "github.copilot.enable": {
         "*": true,
@@ -54,5 +53,6 @@
         "markdown": false
     },
     "window.menuBarVisibility": "compact",
-    "workbench.layoutControl.enabled": false
+    "workbench.layoutControl.enabled": false,
+    "workbench.colorTheme": "Moonlight II"
 }
